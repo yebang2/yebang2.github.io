@@ -6,7 +6,7 @@ email: tangwtna@163.com
 description: "这里是 @JoouA的个人博客，与你一起发现更大的世界。"
 keyword: "博客, 个人网站, 互联网, Web"
 url: ""              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
