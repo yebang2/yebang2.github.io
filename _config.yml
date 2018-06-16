@@ -1,6 +1,6 @@
 # Site settings
 title: JoouA Blog
-SEOTitle: JoouA的博客 | JoouA Blog
+SEOTitle: JoouA的博客
 header-img: img/home-bg.jpg
 email: tangwtna@163.com
 description: "这里是 @JoouA的个人博客，与你一起发现更大的世界。"
@@ -12,9 +12,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 future: true
 
 # SNS settings
-RSS: false
-weibo_username:     tangwtitao12
-zhihu_username:     SNK
+RSS: true
+weibo_username:     1501344020
+zhihu_username:     snk-26
 github_username:    JoouA
 #twitter_username:   huxpro
 #facebook_username:  huxpro
@@ -49,7 +49,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username:
 
 # Netease settings
 netease_comment: false
@@ -57,19 +57,22 @@ netease_comment: false
 
 
 # Analytics settings
-# Baidu Analytics 
+
+# Baidu Analytics
+
+
 # ba_track_id: [your track id]
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain:
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-jooua.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "沉迷于代码无法自拔"
+sidebar-avatar: /img/avatar-kela.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -88,29 +91,17 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "Laravel-China",
+        href: "https://laravel-china.org"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "阮一峰的博客",
+        href: "http://www.ruanyifeng.com/home.html"
     },{
         title: "天镶的博客",
         href: "http://lingyu.wang/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
+        title: "DIY GOD",
+        href: "https://diygod.me/"
     },{
         title: "DHong Say",
         href: "http://dhong.co"
