@@ -1,11 +1,11 @@
 # Site settings
-title: JoouA Blog
-SEOTitle: JoouA的博客
+title: YLGB Blog
+SEOTitle: YLGB的博客
 header-img: img/home-bg.jpg
-email: tangwtna@163.com
-description: "这里是 @JoouA的个人博客，与你一起发现更大的世界。"
+email: 1791457418@qq.com
+description: "这里是 YLGB的个人博客，与你一起发现更大的世界。"
 keyword: "博客, 个人网站, 互联网, Web"
-url: "jooua.top"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: true
-weibo_username:     1501344020
-zhihu_username:     snk-26
-github_username:    JoouA
+#weibo_username:     1501344020
+#zhihu_username:     snk-26
+github_username:    yebang2
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
